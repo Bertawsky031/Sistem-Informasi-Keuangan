@@ -1,0 +1,32 @@
+[2019-03-11:11:37:52] Nama Admin : saiful => Edit Hutang => 17 => Sukses 
+
+[2023-13-11:06:45:07] Nama Admin : berta => Edit Pemasukan => 1 => Sukses Edit
+
+[2023-13-11:06:45:24] Nama Admin : berta => Edit Pemasukan => 1 => Sukses Edit
+
+[2023-13-11:06:45:38] Nama Admin : berta => Edit Pemasukan => 2 => Sukses Edit
+
+[2023-13-11:07:06:00] Nama Admin : berta => Edit Hutang => 17 => Sukses 
+
+[2023-13-11:07:06:06] Nama Admin : berta => Edit Hutang => 17 => Sukses 
+
+[2023-13-11:07:06:13] Nama Admin : berta => Edit Hutang => 16 => Sukses 
+
+[2023-13-11:07:06:21] Nama Admin : berta => Edit Hutang => 15 => Sukses 
+
+[2023-13-11:07:06:27] Nama Admin : berta => Edit Hutang => 14 => Sukses 
+
+[2023-13-11:07:06:32] Nama Admin : berta => Edit Hutang => 14 => Sukses 
+
+[2023-13-11:07:06:40] Nama Admin : berta => Edit Hutang => 13 => Sukses 
+
+[2023-13-11:07:06:54] Nama Admin : berta => Edit Hutang => 12 => Sukses 
+
+[2023-13-11:07:07:13] Nama Admin : berta => Edit Hutang => 11 => Sukses 
+
+[2023-13-11:07:07:49] Nama Admin : berta => Edit Hutang => 10 => Sukses 
+
+[2023-13-11:07:08:16] Nama Admin : berta => Edit Hutang => 7 => Sukses 
+
+[2023-13-11:07:12:03] Nama Admin : berta => Edit Pemasukan => 25 => Sukses Edit
+
